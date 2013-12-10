@@ -1,0 +1,4 @@
+vc2010/release/
+vc2010/debug/
+vc2010/*.sdf
+vc2010/*.vcxproj.user
